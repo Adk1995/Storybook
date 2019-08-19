@@ -24,7 +24,7 @@ expo start
 ```
 
 # Steps to setup a new Storybook Project
-## Storybook Setup
+## Storybook
 
 1. Follow the setup guide for Storybook for React Native (https://storybook.js.org/docs/guides/guide-react-native/)
 
