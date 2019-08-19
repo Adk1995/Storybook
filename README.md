@@ -12,7 +12,7 @@
 1. Navigate to the folder where you want to clone the project
 2. Run the following command on terminal
 ```
-git clone https://AG31599@bitbucket.anthem.com/scm/amplified2019/storybook.git
+git clone https://AG*****@bitbucket.anthem.com/scm/amplified2019/storybook.git
 ```
 3. Navigate to project folder
 ```
