@@ -13,7 +13,7 @@ import Datepicker from './Datepicker';
 import Modal from './Modal';
 
 storiesOf('Welcome', module).add('to Storybook', () => <Welcome showApp={linkTo('Button')} />);
-storiesOf('Datepicker', module).add('to', () => <Datepicker showApp = {linkTo('Button')} />);
+storiesOf('Datepicker', module).add('DatesIOS', () => <Datepicker showApp = {linkTo('Button')} />);
 storiesOf('Modal', module).add('to', () => <Modal showApp = {linkTo('Button')} />);
 
 storiesOf('Button', module)
