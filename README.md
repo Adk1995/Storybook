@@ -18,7 +18,9 @@ git clone https://AG*****@bitbucket.anthem.com/scm/amplified2019/storybook.git
 ```
 cd storybook
 ```
-4. Run the following command to start the project
+4. Run yarn install or npm install to get latest packages installed
+```
+5. Run the following command to start the project
 ```
 expo start
 ```
