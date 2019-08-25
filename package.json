@@ -30,5 +30,17 @@
     "babel-loader": "^8.0.6",
     "babel-preset-expo": "^6.0.0"
   },
-  "private": true
+  "private": true,
+  "name": "storybook",
+  "description": "## Prerequisites 1. Disconnect from Anthem network 2. Initialize empty React Native project (https://facebook.github.io/react-native/docs/getting-started.html) 3. Install Xcode and download required iOS Simulator 4. Install Android Studio Emulator (https://docs.expo.io/versions/latest/workflow/android-studio-emulator/)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adk1995/Storybook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adk1995/Storybook/issues"
+  },
+  "homepage": "https://github.com/Adk1995/Storybook#readme"
 }
